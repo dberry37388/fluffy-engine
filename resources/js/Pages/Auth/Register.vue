@@ -1,5 +1,5 @@
 <script setup>
-import BreezeButton from '@/Components/Button.vue';
+import BreezeButton from '@/Components/Buttons/Button.vue';
 import BreezeGuestLayout from '@/Layouts/Guest.vue';
 import BreezeInput from '@/Components/Forms/Input.vue';
 import BreezeInputError from '@/Components/Forms/InputError.vue';
